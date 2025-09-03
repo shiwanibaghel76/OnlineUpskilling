@@ -441,11 +441,7 @@ Stock images via Unsplash
 Special thanks to:
  
 Jubril Akolade – Code Institute Mentor
-
-Pulkit Khatter – For debugging and deployment advice
-
 Jubril – Technical guidance
-
 Deepak Kumar – UX and accessibility suggestions 
 
 
